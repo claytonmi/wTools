@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="F:\wTools\wTools\Projeto wTools\Projeto principal\wListaProjetos.dfm" source-language="pt-BR" target-language="en-US" datatype="delphiform" tool="ETM v10.0" ts="F:\wTools\wTools\Projeto wTools\Projeto principal\wListaProjetos.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43597.0741203704</prop>
+        <prop prop-type="OrigDateTime">43596.9337037037</prop>
+        <prop prop-type="XlatDateTime">43596.9337037037</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">181</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:FListaProjetos.Left" resname="O:FListaProjetos.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741354977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Top" resname="O:FListaProjetos.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741354977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.BorderIcons" resname="O:FListaProjetos.BorderIcons">
+        <source>[biSystemMenu]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741354977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.BorderStyle" resname="O:FListaProjetos.BorderStyle">
+        <source>bsSingle</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741354977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Caption" resname="O:FListaProjetos.Caption">
+        <source>'Lista de projetos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.ClientHeight" resname="O:FListaProjetos.ClientHeight">
+        <source>217</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.ClientWidth" resname="O:FListaProjetos.ClientWidth">
+        <source>466</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Color" resname="O:FListaProjetos.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Font.Charset" resname="O:FListaProjetos.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Font.Color" resname="O:FListaProjetos.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Font.Height" resname="O:FListaProjetos.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Font.Name" resname="O:FListaProjetos.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Font.Style" resname="O:FListaProjetos.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.FormStyle" resname="O:FListaProjetos.FormStyle">
+        <source>fsMDIChild</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.OldCreateOrder" resname="O:FListaProjetos.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Position" resname="O:FListaProjetos.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.Visible" resname="O:FListaProjetos.Visible">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.OnClose" resname="O:FListaProjetos.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.PixelsPerInch" resname="O:FListaProjetos.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.TextHeight" resname="O:FListaProjetos.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TFListaProjetos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:BtInicia.Left" resname="O:FListaProjetos.O:BtInicia.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:BtInicia.Top" resname="O:FListaProjetos.O:BtInicia.Top">
+        <source>183</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:BtInicia.Width" resname="O:FListaProjetos.O:BtInicia.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:BtInicia.Height" resname="O:FListaProjetos.O:BtInicia.Height">
+        <source>27</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:BtInicia.Caption" resname="O:FListaProjetos.O:BtInicia.Caption">
+        <source>'Iniciar'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:BtInicia.TabOrder" resname="O:FListaProjetos.O:BtInicia.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:BtInicia.OnClick" resname="O:FListaProjetos.O:BtInicia.OnClick">
+        <source>BtIniciaClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.Left" resname="O:FListaProjetos.O:GroupBox1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.Top" resname="O:FListaProjetos.O:GroupBox1.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.Width" resname="O:FListaProjetos.O:GroupBox1.Width">
+        <source>449</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.Height" resname="O:FListaProjetos.O:GroupBox1.Height">
+        <source>169</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.Caption" resname="O:FListaProjetos.O:GroupBox1.Caption">
+        <source>'Projetos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.TabOrder" resname="O:FListaProjetos.O:GroupBox1.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Left">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Caption">
+        <source>'lavenderecore'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckLCore.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLCore.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckLCore.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLCore.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckLCore.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Left">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Top">
+        <source>47</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Caption">
+        <source>'lavenderedados'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckLDados.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLDados.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckLDados.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLDados.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckLDados.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Left">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Top">
+        <source>70</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Caption">
+        <source>'lavendereweb'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckLWeb.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Left">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Top">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Caption">
+        <source>'lavenderepda'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckLPda.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLPda.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckLPda.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckLPda.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckLPda.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Left">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Top">
+        <source>116</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Caption">
+        <source>'super-pom-base'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckSBase.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSBase.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckSBase.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSBase.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckSBase.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Left">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Top">
+        <source>139</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Caption">
+        <source>'super-pom-core'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckSCore.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSCore.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckSCore.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSCore.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckSCore.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Caption">
+        <source>'super-pom-web'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckSWeb.TabOrder">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Top">
+        <source>47</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Caption">
+        <source>'framework-util'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckFUtil.TabOrder">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFService.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckFService.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFService.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckFService.Top">
+        <source>70</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFService.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckFService.Width">
+        <source>121</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFService.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckFService.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFService.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckFService.Caption">
+        <source>'framework-service'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFService.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckFService.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFService.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckFService.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFService.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckFService.TabOrder">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Top">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Caption">
+        <source>'framework-core'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckFCore.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFCore.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckFCore.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFCore.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckFCore.TabOrder">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Top">
+        <source>116</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Caption">
+        <source>'framework-web'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckFWeb.TabOrder">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Top">
+        <source>139</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Width">
+        <source>121</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Caption">
+        <source>'framework-integrator'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntergrator.TabOrder">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Left">
+        <source>296</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Width">
+        <source>137</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Caption">
+        <source>'framework-integrator-tc'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckFIntegratorTc.TabOrder">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Left">
+        <source>296</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Top">
+        <source>47</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Caption">
+        <source>'super-pom-pda'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckSPpda.TabOrder">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Left">
+        <source>296</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Top">
+        <source>70</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Width">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Caption">
+        <source>'framework-tc'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckFTc.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFTc.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckFTc.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckFTc.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckFTc.TabOrder">
+        <source>14</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Left">
+        <source>296</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Top">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Width">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355208</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Caption">
+        <source>'carruspdatc'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusPda.TabOrder">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Left" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Left">
+        <source>296</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Top" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Top">
+        <source>116</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Width" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Width">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Height" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Caption" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Caption">
+        <source>'carruswebtc'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Checked" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.State" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.TabOrder" resname="O:FListaProjetos.O:GroupBox1.O:CheckCarrusWebTc.TabOrder">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckWebePda.Left" resname="O:FListaProjetos.O:CheckWebePda.Left">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckWebePda.Top" resname="O:FListaProjetos.O:CheckWebePda.Top">
+        <source>188</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckWebePda.Width" resname="O:FListaProjetos.O:CheckWebePda.Width">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckWebePda.Height" resname="O:FListaProjetos.O:CheckWebePda.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckWebePda.Caption" resname="O:FListaProjetos.O:CheckWebePda.Caption">
+        <source>'Projetos web e pda'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckWebePda.TabOrder" resname="O:FListaProjetos.O:CheckWebePda.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckTodosFrameworks.Left" resname="O:FListaProjetos.O:CheckTodosFrameworks.Left">
+        <source>304</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckTodosFrameworks.Top" resname="O:FListaProjetos.O:CheckTodosFrameworks.Top">
+        <source>188</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckTodosFrameworks.Width" resname="O:FListaProjetos.O:CheckTodosFrameworks.Width">
+        <source>121</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckTodosFrameworks.Height" resname="O:FListaProjetos.O:CheckTodosFrameworks.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckTodosFrameworks.Caption" resname="O:FListaProjetos.O:CheckTodosFrameworks.Caption">
+        <source>'Todos os Frameworks'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FListaProjetos.O:CheckTodosFrameworks.TabOrder" resname="O:FListaProjetos.O:CheckTodosFrameworks.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741355324</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

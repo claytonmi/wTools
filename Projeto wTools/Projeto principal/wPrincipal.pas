@@ -20,12 +20,10 @@ type
 
     { Private declarations }
   public
-    Caminho:string;
   end;
 
 var
   FPrincipal: TFPrincipal;
-   Caminho:string;
 
 
 implementation
@@ -37,7 +35,6 @@ uses wListaProjetos, wListaProjetosDeTestes, wConfig;
 procedure TFPrincipal.mConfigClick(Sender: TObject);
 begin
   TFconfig.Create(Application);
- Caminho := 'F:\wTools\wTools\Projeto wTools\Projeto principal\exe\ProjetosLavenderes\';
 end;
 
 procedure TFPrincipal.mMenuBranchMasterClick(Sender: TObject);

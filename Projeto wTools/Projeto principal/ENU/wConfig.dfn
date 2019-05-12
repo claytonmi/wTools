@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="F:\wTools\wTools\Projeto wTools\Projeto principal\wConfig.dfm" source-language="pt-BR" target-language="en-US" datatype="delphiform" tool="ETM v10.0" ts="F:\wTools\wTools\Projeto wTools\Projeto principal\wConfig.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43597.0741203704</prop>
+        <prop prop-type="OrigDateTime">43596.9903240741</prop>
+        <prop prop-type="XlatDateTime">43596.9903240741</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">59</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:FConfig.Left" resname="O:FConfig.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Top" resname="O:FConfig.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.BorderIcons" resname="O:FConfig.BorderIcons">
+        <source>[biSystemMenu]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.BorderStyle" resname="O:FConfig.BorderStyle">
+        <source>bsSingle</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Caption" resname="O:FConfig.Caption">
+        <source>'Config'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.ClientHeight" resname="O:FConfig.ClientHeight">
+        <source>203</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.ClientWidth" resname="O:FConfig.ClientWidth">
+        <source>334</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Color" resname="O:FConfig.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Font.Charset" resname="O:FConfig.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Font.Color" resname="O:FConfig.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Font.Height" resname="O:FConfig.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Font.Name" resname="O:FConfig.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Font.Style" resname="O:FConfig.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.FormStyle" resname="O:FConfig.FormStyle">
+        <source>fsMDIChild</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.OldCreateOrder" resname="O:FConfig.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Position" resname="O:FConfig.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.Visible" resname="O:FConfig.Visible">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.OnClose" resname="O:FConfig.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.PixelsPerInch" resname="O:FConfig.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.TextHeight" resname="O:FConfig.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TFConfig</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdCaminho.Left" resname="O:FConfig.O:EdCaminho.Left">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdCaminho.Top" resname="O:FConfig.O:EdCaminho.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdCaminho.Width" resname="O:FConfig.O:EdCaminho.Width">
+        <source>265</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdCaminho.Height" resname="O:FConfig.O:EdCaminho.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdCaminho.TabOrder" resname="O:FConfig.O:EdCaminho.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdCaminho.TextHint" resname="O:FConfig.O:EdCaminho.TextHint">
+        <source>'Caminho dos comandos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdLoginGit.Left" resname="O:FConfig.O:EdLoginGit.Left">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdLoginGit.Top" resname="O:FConfig.O:EdLoginGit.Top">
+        <source>87</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdLoginGit.Width" resname="O:FConfig.O:EdLoginGit.Width">
+        <source>265</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdLoginGit.Height" resname="O:FConfig.O:EdLoginGit.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdLoginGit.TabOrder" resname="O:FConfig.O:EdLoginGit.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdLoginGit.TextHint" resname="O:FConfig.O:EdLoginGit.TextHint">
+        <source>'Login do Git'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdSenha.Left" resname="O:FConfig.O:EdSenha.Left">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdSenha.Top" resname="O:FConfig.O:EdSenha.Top">
+        <source>118</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdSenha.Width" resname="O:FConfig.O:EdSenha.Width">
+        <source>234</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdSenha.Height" resname="O:FConfig.O:EdSenha.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdSenha.PasswordChar" resname="O:FConfig.O:EdSenha.PasswordChar">
+        <source>'*'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdSenha.TabOrder" resname="O:FConfig.O:EdSenha.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:EdSenha.TextHint" resname="O:FConfig.O:EdSenha.TextHint">
+        <source>'Senha'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtGravar.Left" resname="O:FConfig.O:BtGravar.Left">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtGravar.Top" resname="O:FConfig.O:BtGravar.Top">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtGravar.Width" resname="O:FConfig.O:BtGravar.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtGravar.Height" resname="O:FConfig.O:BtGravar.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtGravar.Caption" resname="O:FConfig.O:BtGravar.Caption">
+        <source>'Gravar'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtGravar.TabOrder" resname="O:FConfig.O:BtGravar.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtGravar.OnClick" resname="O:FConfig.O:BtGravar.OnClick">
+        <source>BtGravarClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtExcluir.Left" resname="O:FConfig.O:BtExcluir.Left">
+        <source>224</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtExcluir.Top" resname="O:FConfig.O:BtExcluir.Top">
+        <source>179</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtExcluir.Width" resname="O:FConfig.O:BtExcluir.Width">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtExcluir.Height" resname="O:FConfig.O:BtExcluir.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtExcluir.Caption" resname="O:FConfig.O:BtExcluir.Caption">
+        <source>'Excluir registro '</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtExcluir.TabOrder" resname="O:FConfig.O:BtExcluir.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtExcluir.OnClick" resname="O:FConfig.O:BtExcluir.OnClick">
+        <source>BtExcluirClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtVisivel.Left" resname="O:FConfig.O:BtVisivel.Left">
+        <source>272</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtVisivel.Top" resname="O:FConfig.O:BtVisivel.Top">
+        <source>118</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtVisivel.Width" resname="O:FConfig.O:BtVisivel.Width">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtVisivel.Height" resname="O:FConfig.O:BtVisivel.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtVisivel.TabOrder" resname="O:FConfig.O:BtVisivel.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FConfig.O:BtVisivel.OnClick" resname="O:FConfig.O:BtVisivel.OnClick">
+        <source>BtVisivelClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43597.0741353125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

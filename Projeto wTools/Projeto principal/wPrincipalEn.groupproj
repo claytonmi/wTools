@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{1E705953-6CC4-472E-A2A6-DCC806D1A9DA}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="ProjetoWTools.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ENU\ProjetoWTools_ENU.bdsproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ProjetoWTools">
+        <MSBuild Projects="ProjetoWTools.dproj"/>
+    </Target>
+    <Target Name="ProjetoWTools:Clean">
+        <MSBuild Projects="ProjetoWTools.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ProjetoWTools:Make">
+        <MSBuild Projects="ProjetoWTools.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ProjetoWTools_ENU">
+        <MSBuild Projects="ENU\ProjetoWTools_ENU.bdsproj"/>
+    </Target>
+    <Target Name="ProjetoWTools_ENU:Clean">
+        <MSBuild Projects="ENU\ProjetoWTools_ENU.bdsproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ProjetoWTools_ENU:Make">
+        <MSBuild Projects="ENU\ProjetoWTools_ENU.bdsproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ProjetoWTools;ProjetoWTools_ENU"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ProjetoWTools:Clean;ProjetoWTools_ENU:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ProjetoWTools:Make;ProjetoWTools_ENU:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

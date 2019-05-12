@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">W32ResourceDLL.Personality</Option>
+      <Option Name="ProjectType">ResourceDLL</Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{6DF8F881-89F7-4CA8-B03E-14B3C5975A3E}</Option>
+    </Option>
+  </PersonalityInfo>
+  <W32ResourceDLL.Personality>
+    <Source>
+      <Source Name="MainSource">ProjetoWTools.dpr</Source>
+    </Source>
+    <Options>
+      <Options Name="BaseLang">1046</Options>
+      <Options Name="TargetName">..\Win32\Debug\ProjetoWTools.ENU</Options>
+      <Options Name="BRCC_IncludePath"></Options>
+      <Options Name="Company"></Options>
+      <Options Name="Configuration"></Options>
+      <Options Name="Copyright"></Options>
+      <Options Name="Description"></Options>
+      <Options Name="Trademark"></Options>
+      <Options Name="Product"></Options>
+      <Options Name="ProductVersion"></Options>
+      <Options Name="Title"></Options>
+      <Options Name="FileVersion"></Options>
+      <Options Name="Evidence"></Options>
+      <Options Name="KeyFile"></Options>
+      <Options Name="KeyName"></Options>
+    </Options>
+    <FileList>
+      <File FileName="wConfig.dfm" ContainerId="W32Form" ModuleName="wConfig.dfm"/>
+      <File FileName="wListaProjetos.dfm" ContainerId="W32Form" ModuleName="wListaProjetos.dfm"/>
+      <File FileName="wListaProjetosDeTestes.dfm" ContainerId="W32Form" ModuleName="wListaProjetosDeTestes.dfm"/>
+      <File FileName="wPrincipal.dfm" ContainerId="W32Form" ModuleName="wPrincipal.dfm"/>
+      <File FileName="Win32\Debug\ProjetoWTools_DRC.rc" ContainerId="W32RC" ModuleName="ProjetoWTools_DRC.rc"/>
+    </FileList>
+  </W32ResourceDLL.Personality>
+</BorlandProject>

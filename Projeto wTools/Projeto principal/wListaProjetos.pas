@@ -5,7 +5,7 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls,ShellAPI,
-  IdBaseComponent, IdIntercept, IdLogBase, IdLogFile;
+  IdBaseComponent, IdIntercept, IdLogBase, IdLogFile,System.IniFiles,System.IOUtils;
 
 type
   TFListaProjetos = class(TForm)
@@ -46,19 +46,28 @@ implementation
 
 {$R *.dfm}
 
-uses wPrincipal;
+uses wPrincipal, wConfig;
 
 procedure TFListaProjetos.BtIniciaClick(Sender: TObject);
+Var
+  caminho:TIniFile;
+  caminhos:String;
 begin
-if CheckLCore.Checked=True then
-begin
-  ShellExecute(Handle, 'open',PWideChar(wPrincipal.Caminho+'n.bat'), nil, nil, SW_SHOWNORMAL);
-end
-else
-begin
+ if not FileExists(ExtractFilePath(ParamStr(0))+'Conf.ini') then
+ begin
+   ShowMessage('Arquivo de configuração não encontrado!');
+ end
+ else
+ begin
+   caminho  := TIniFile.Create(TPath.GetDocumentsPath + PathDelim + 'Conf.ini');
+   caminhos := caminho.ReadString('Caminho', 'Caminho', 'Sem caminho');
+   ShowMessage('Arquivo de configuração não encontrado! '+caminhos);
+  if CheckLCore.Checked=True then
+  begin
+    ShellExecute(Handle, 'open',PWideChar(caminhos+'n.bat'), nil, nil, SW_SHOWNORMAL);
+  end;
 
-end;
-
+ end;
 end;
 
 procedure TFListaProjetos.FormClose(Sender: TObject; var Action: TCloseAction);
