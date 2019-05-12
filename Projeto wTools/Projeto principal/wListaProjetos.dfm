@@ -4,8 +4,8 @@ object FListaProjetos: TFListaProjetos
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
   Caption = 'Lista de projetos'
-  ClientHeight = 213
-  ClientWidth = 467
+  ClientHeight = 217
+  ClientWidth = 466
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -14,7 +14,7 @@ object FListaProjetos: TFListaProjetos
   Font.Style = []
   FormStyle = fsMDIChild
   OldCreateOrder = False
-  Position = poDesktopCenter
+  Position = poMainFormCenter
   Visible = True
   OnClose = FormClose
   PixelsPerInch = 96

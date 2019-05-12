@@ -4,7 +4,8 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls,ShellAPI,
+  IdBaseComponent, IdIntercept, IdLogBase, IdLogFile;
 
 type
   TFListaProjetos = class(TForm)
@@ -40,15 +41,18 @@ type
 var
   FListaProjetos: TFListaProjetos;
 
+
 implementation
 
 {$R *.dfm}
+
+uses wPrincipal;
 
 procedure TFListaProjetos.BtIniciaClick(Sender: TObject);
 begin
 if CheckLCore.Checked=True then
 begin
-  winexec("",sw_normal);
+  ShellExecute(Handle, 'open',PWideChar(wPrincipal.Caminho+'n.bat'), nil, nil, SW_SHOWNORMAL);
 end
 else
 begin
@@ -63,3 +67,5 @@ begin
 end;
 
 end.
+
+

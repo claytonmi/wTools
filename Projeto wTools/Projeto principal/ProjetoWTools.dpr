@@ -4,7 +4,8 @@ uses
   Vcl.Forms,
   wPrincipal in 'wPrincipal.pas' {FPrincipal},
   wListaProjetos in 'wListaProjetos.pas' {FListaProjetos},
-  wListaProjetosDeTestes in 'wListaProjetosDeTestes.pas' {FListaProjetosTestes};
+  wListaProjetosDeTestes in 'wListaProjetosDeTestes.pas' {FListaProjetosTestes},
+  wConfig in 'wConfig.pas' {FConfig};
 
 {$R *.res}
 

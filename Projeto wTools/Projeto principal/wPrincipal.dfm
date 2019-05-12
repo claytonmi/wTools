@@ -32,5 +32,9 @@ object FPrincipal: TFPrincipal
         OnClick = mMenuBranchMasterClick
       end
     end
+    object mConfig: TMenuItem
+      Caption = 'Config'
+      OnClick = mConfigClick
+    end
   end
 end

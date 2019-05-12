@@ -12,22 +12,33 @@ type
     mMenu: TMenuItem;
     mMenuPMaster: TMenuItem;
     mMenuBranchMaster: TMenuItem;
+    mConfig: TMenuItem;
     procedure mMenuPMasterClick(Sender: TObject);
     procedure mMenuBranchMasterClick(Sender: TObject);
+    procedure mConfigClick(Sender: TObject);
   private
+
     { Private declarations }
   public
-    { Public declarations }
+    Caminho:string;
   end;
 
 var
   FPrincipal: TFPrincipal;
+   Caminho:string;
+
 
 implementation
 
 {$R *.dfm}
 
-uses wListaProjetos, wListaProjetosDeTestes;
+uses wListaProjetos, wListaProjetosDeTestes, wConfig;
+
+procedure TFPrincipal.mConfigClick(Sender: TObject);
+begin
+  TFconfig.Create(Application);
+ Caminho := 'F:\wTools\wTools\Projeto wTools\Projeto principal\exe\ProjetosLavenderes\';
+end;
 
 procedure TFPrincipal.mMenuBranchMasterClick(Sender: TObject);
 begin
